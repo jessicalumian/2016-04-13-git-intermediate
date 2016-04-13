@@ -11,4 +11,3 @@ Today we will discuss:
 - merging
 - PRs
 - forks
-- etc...
