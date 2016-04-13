@@ -2,6 +2,8 @@
 
 This is an edit from [Github](https://github.com/). This is a change from first_branch_made!
 
+Here is ANOTHER change from another_branch_here.
+ 
 Today we will discuss: 
 
 - conflicts 
@@ -9,4 +11,3 @@ Today we will discuss:
 - merging
 - PRs
 - forks
-- etc...
